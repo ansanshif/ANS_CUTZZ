@@ -90,6 +90,11 @@
             "required": false,
             "value": "default"
         },
+        "TAG_HEADER": {
+            "description": "Heading when taging all",
+            "required": false,
+            "value": "ALL OF YOU LISTEN"
+        },
         "WORK_TYPE": {
             "description": "ANS_CUTZZ Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
